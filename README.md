@@ -1,4 +1,4 @@
-# LMC 2.0
+﻿# LMC 2.0
     Database for Leso Modding COM 2.0     ║
     ══════════════════════════════════════╝
 
@@ -9,3 +9,8 @@
     
         You are only able to read out things like version
         name or mod's the client should download
+        They are not supposed to be read by anyone and
+        also don't contain any important information.
+
+        They only contain stuff like the current version's
+        name or mod's which the client is supposed to download.
